@@ -31,7 +31,7 @@ comtypes==1.1.2
 conda==4.3.30
 constantly==15.1.0
 contextlib2==0.5.5
-cryptography==2.0.3
+cryptography==3.2
 cycler==0.10.0
 Cython==0.26.1
 cytoolz==0.8.2
